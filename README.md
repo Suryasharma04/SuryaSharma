@@ -2,7 +2,8 @@
 **`Lifetime Learner/Aspiring Computer Scientist`** 
 
 Hi! I am Surya, and I am a curious individual to explore the vast realms of Computer Science. I specialize in turning ideas into reality, having completed projects that showcase my proficiency in various programming languages. From dynamic web applications to mobile solutions, I thrive on bringing innovation to the forefront. With a keen interest in AR/VR, I've delved into immersive technologies, bringing innovation to the forefront. Eager to expand my horizons, I aspire to dive deeper into emerging media, robotics, and artificial intelligence, contributing to the evolution of these dynamic fields.
---- 
+
+ ---
 
 ### 🧰 Languages and Tools
 
@@ -25,7 +26,9 @@ Hi! I am Surya, and I am a curious individual to explore the vast realms of Comp
 
 ### About Me
 🖌️  I make illustrations and graphic designs
+
 🎹  I find joy in playing musical instruments such as Piano, Ukulele, and Guitar, and singing
+
 🦋  I love exploring, trying new things, and talking to different people 
 
 ### 📊 Stats
