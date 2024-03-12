@@ -1,7 +1,9 @@
 # Surya Sharma
 **`Lifetime Learner/Aspiring Computer Scientist`** 
 
-## 🧰 Languages and Tools
+
+
+### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
@@ -16,7 +18,7 @@
          
 <br />
 
-## About Me
+### About Me
 
 ### 📊 Stats
 
