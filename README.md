@@ -1,10 +1,6 @@
 # 🌼 Surya Sharma
 **`Lifetime Learner/Aspiring Computer Scientist`** 
 
-<br />
-<img src='./image.svg' width="100%">
-<br />
-
 Hi! I am Surya, and I am a curious individual to explore the vast realms of Computer Science. I specialize in turning ideas into reality, having completed projects that showcase my proficiency in various programming languages. From dynamic web applications to mobile solutions, I thrive on bringing innovation to the forefront. With a keen interest in AR/VR, I've delved into immersive technologies, bringing innovation to the forefront. Eager to expand my horizons, I aspire to dive deeper into emerging media, robotics, and artificial intelligence, contributing to the evolution of these dynamic fields.
 
 <hr>
