@@ -27,7 +27,8 @@ Hi! I am Surya, and I am a curious individual to explore the vast realms of Comp
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />   
          
 <br/>
-
+ ---
+ 
 ### About Me
 🖌️  I make illustrations and graphic designs <br/>
 🎹  I find joy in playing musical instruments such as Piano, Ukulele, and Guitar, and singing<br/>
@@ -35,6 +36,8 @@ Hi! I am Surya, and I am a curious individual to explore the vast realms of Comp
 
 <br/>
 
+ ---
+ 
 ### 📊 Stats
 
 ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryasharma04&show_icons=true&theme=tokyonight)
