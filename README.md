@@ -27,7 +27,7 @@ Hi! I am Surya, and I am a curious individual to explore the vast realms of Comp
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />   
          
 <br/>
- <hr> 
+
 ### About Me
 🖌️  I make illustrations and graphic designs <br/>
 🎹  I find joy in playing musical instruments such as Piano, Ukulele, and Guitar, and singing<br/>
