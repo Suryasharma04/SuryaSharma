@@ -35,7 +35,6 @@ Hi! I am Surya, and I am a curious individual to explore the vast realms of Comp
 🦋  I love exploring, trying new things, and talking to different people <br/>
 
 <br/>
-
  ---
  
 ### 📊 Stats
@@ -43,7 +42,7 @@ Hi! I am Surya, and I am a curious individual to explore the vast realms of Comp
 ![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryasharma04&show_icons=true&theme=tokyonight)
 
 <br/>
- <hr> 
+ ---
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=suryasharma04&style=for-the-badge&color=orange" width="200" />
 </div>
