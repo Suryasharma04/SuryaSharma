@@ -32,10 +32,6 @@ Hi! I am Surya, and I am a curious individual to explore the vast realms of Comp
 
 <hr> 
 
-### 📊 Stats
-
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=suryasharma04&show_icons=true&theme=tokyonight)
-
 ##
 
 <div align="center">
